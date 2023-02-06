@@ -1,6 +1,6 @@
 # revolving_earth_dataset
 
-A new dataset for video diffusion. 
+A new dataset for video diffusion based on wikimedia commons gifs of the earth. 2163 videos of 10 frames each and with size 64x64. 
 
 
 
