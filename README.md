@@ -1,2 +1,4 @@
 # revolving_earth_dataset
-revolving earth dataset
+
+A new dataset for video diffusion. 
+
